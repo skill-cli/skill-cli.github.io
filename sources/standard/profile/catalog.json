@@ -1,0 +1,78 @@
+{
+  "organization": {
+    "login": "skill-cli",
+    "name": "skill-cli",
+    "about": "Organization profile, brand and shared standards for skill-cli."
+  },
+  "promise": "Install and update agent skills, resolved to exact versions.",
+  "secondary": "The skills edition of agents: works with Codex, Claude Code, Cursor, Gemini CLI and OpenCode. Upstream changes are previewed before you apply them.",
+  "description": "Install and update the skills of Codex, Claude Code, Cursor, Gemini CLI and OpenCode, resolved to exact versions.",
+  "mark": {
+    "light": "https://raw.githubusercontent.com/skill-cli/.github/HEAD/profile/assets/icon-dark.png",
+    "dark": "https://raw.githubusercontent.com/skill-cli/.github/HEAD/profile/assets/icon.png"
+  },
+  "navigation": {
+    "documentation": {
+      "label": "Documentation",
+      "url": "https://github.com/skill-cli/cli/blob/master/Documentation/Reference/CLI.md"
+    },
+    "contributing": {
+      "label": "Contributing",
+      "url": "https://github.com/skill-cli/.github/blob/master/CONTRIBUTING.md"
+    },
+    "security": {
+      "label": "Security",
+      "url": "https://github.com/skill-cli/.github/blob/master/SECURITY.md"
+    },
+    "support": {
+      "label": "Support",
+      "url": "https://github.com/skill-cli/.github/blob/master/SUPPORT.md"
+    }
+  },
+  "quickstart": {
+    "title": "Get started",
+    "commands": [
+      "brew install skill-cli/tap/skill-cli",
+      "skill add owner/repo name",
+      "skill list"
+    ]
+  },
+  "groups": [
+    {
+      "title": "Manage skills",
+      "repositories": [
+        {
+          "name": "cli",
+          "outcome": "The skill command: add skills from local paths, Git repositories or well-known indexes, pin them, restore installs and review watched sources.",
+          "icon": {
+            "light": "https://raw.githubusercontent.com/skill-cli/cli/HEAD/.github/assets/logo/logo-light.png",
+            "dark": "https://raw.githubusercontent.com/skill-cli/cli/HEAD/.github/assets/logo/logo-dark.png"
+          },
+          "kind": "tool",
+          "title": "skill",
+          "about": "Install and update agent skills, resolved to exact versions."
+        }
+      ]
+    },
+    {
+      "title": "Install the CLI",
+      "repositories": [
+        {
+          "name": "homebrew-tap",
+          "outcome": "Install skill with Homebrew.",
+          "icon": {
+            "light": "https://raw.githubusercontent.com/skill-cli/.github/HEAD/profile/assets/icon-dark.png",
+            "dark": "https://raw.githubusercontent.com/skill-cli/.github/HEAD/profile/assets/icon.png"
+          },
+          "kind": "distribution",
+          "title": "homebrew-tap",
+          "about": "Install skill with Homebrew."
+        }
+      ]
+    }
+  ],
+  "maintainer": {
+    "label": "Maintained by @showxu",
+    "url": "https://github.com/showxu"
+  }
+}
