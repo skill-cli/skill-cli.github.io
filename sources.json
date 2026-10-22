@@ -3,35 +3,35 @@
   "files": [
     {
       "repository": "skill-cli/.github",
-      "revision": "f67f716d711091a6dda7c837166594b5fb522bf9",
+      "revision": "1180fdf125bd78f5196eaac9d9d99d7d667d9b3d",
       "path": "profile/catalog.json",
       "file": "sources/standard/profile/catalog.json",
-      "sha256": "9e396b8751831639a85179b7af61aa636a877dee809bf7cbbf3a845cda2e860c"
+      "sha256": "fa2c016d1718887eabf0d369f22c958577d504f46c6233d1b6cdc31d76415656"
     },
     {
       "repository": "skill-cli/.github",
-      "revision": "f67f716d711091a6dda7c837166594b5fb522bf9",
+      "revision": "1180fdf125bd78f5196eaac9d9d99d7d667d9b3d",
       "path": "profile/assets/icon.png",
       "file": "sources/standard/profile/assets/icon.png",
       "sha256": "ca2bdc90da14e546cbdf760d05c34ba3ab310f6911039fbcbd7ac02b0e694d24"
     },
     {
       "repository": "skill-cli/.github",
-      "revision": "f67f716d711091a6dda7c837166594b5fb522bf9",
+      "revision": "1180fdf125bd78f5196eaac9d9d99d7d667d9b3d",
       "path": "profile/assets/icon-dark.png",
       "file": "sources/standard/profile/assets/icon-dark.png",
       "sha256": "b412e0ea3ce90b8742bed9aec2885f5ff48c39ffd08f01ee24f954daaafbf395"
     },
     {
       "repository": "skill-cli/.github",
-      "revision": "f67f716d711091a6dda7c837166594b5fb522bf9",
+      "revision": "1180fdf125bd78f5196eaac9d9d99d7d667d9b3d",
       "path": ".github/design/fonts/GoogleSansCode[MONO,wght].ttf",
       "file": "sources/standard/.github/design/fonts/GoogleSansCode[MONO,wght].ttf",
       "sha256": "74642762fae66d5883077794a763e1086394b8cb72f2623e456e06359dc5c64b"
     },
     {
       "repository": "skill-cli/.github",
-      "revision": "f67f716d711091a6dda7c837166594b5fb522bf9",
+      "revision": "1180fdf125bd78f5196eaac9d9d99d7d667d9b3d",
       "path": ".github/design/fonts/GoogleSansCode[MONO,wght].ttf",
       "file": "sources/standard/.github/design/fonts/GoogleSansCode[MONO,wght].woff2",
       "sha256": "ed98cac89efbca1e09b896baf1a48dd95f9feacfa7118d59efa1ad2ab692b924",
@@ -39,7 +39,7 @@
     },
     {
       "repository": "skill-cli/.github",
-      "revision": "f67f716d711091a6dda7c837166594b5fb522bf9",
+      "revision": "1180fdf125bd78f5196eaac9d9d99d7d667d9b3d",
       "path": ".github/design/fonts/OFL.txt",
       "file": "sources/standard/.github/design/fonts/OFL.txt",
       "sha256": "58d145732eea7ee61940a7eccecad160772b8621171b69b62183a5c7eb967740",
@@ -48,7 +48,7 @@
     },
     {
       "repository": "skill-cli/.github",
-      "revision": "f67f716d711091a6dda7c837166594b5fb522bf9",
+      "revision": "1180fdf125bd78f5196eaac9d9d99d7d667d9b3d",
       "path": "LICENSE",
       "file": "sources/standard/LICENSE",
       "sha256": "c32633e65bbeeadd95d9fd0384cbcc3090d8e9b6f4f8cb24f63fa4249a6ca79a"
