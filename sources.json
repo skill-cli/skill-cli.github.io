@@ -55,56 +55,56 @@
     },
     {
       "repository": "skill-cli/cli",
-      "revision": "d84d5fbb6f3aa08cb38475c1439a5b8d58e370aa",
+      "revision": "516f9a07a4ce67e0694361a531b50a600324f25b",
       "path": "README.md",
       "file": "sources/cli/README.md",
-      "sha256": "ee57b1b71f4ae393b45b3fde8bbb06bb20f8e33785ef516badacf4af7e0ba051"
+      "sha256": "07226707598a797e303e5f192ccf9ca88d84ae5af6a169dffca3ca75be998807"
     },
     {
       "repository": "skill-cli/cli",
-      "revision": "d84d5fbb6f3aa08cb38475c1439a5b8d58e370aa",
+      "revision": "516f9a07a4ce67e0694361a531b50a600324f25b",
       "path": "Documentation/Reference/CLI.md",
       "file": "sources/cli/Documentation/Reference/CLI.md",
       "sha256": "c828ce5836f3242c1eb1c0c7fde909a7270099965577dab8de9b5eacb68ccd77"
     },
     {
       "repository": "skill-cli/cli",
-      "revision": "d84d5fbb6f3aa08cb38475c1439a5b8d58e370aa",
+      "revision": "516f9a07a4ce67e0694361a531b50a600324f25b",
       "path": ".github/assets/terminal/terminal-light.svg",
       "file": "sources/cli/.github/assets/terminal/terminal-light.svg",
       "sha256": "ac51d02a6ffa7b891a59858523b658673856aade4e5d4ff2be9ec700ce8df8a3"
     },
     {
       "repository": "skill-cli/cli",
-      "revision": "d84d5fbb6f3aa08cb38475c1439a5b8d58e370aa",
+      "revision": "516f9a07a4ce67e0694361a531b50a600324f25b",
       "path": ".github/assets/terminal/terminal-dark.svg",
       "file": "sources/cli/.github/assets/terminal/terminal-dark.svg",
       "sha256": "aeb0751097d5cf4b277b1295c6dbb3833812d421eac3977e7f2759e2d939ea9c"
     },
     {
       "repository": "skill-cli/cli",
-      "revision": "d84d5fbb6f3aa08cb38475c1439a5b8d58e370aa",
+      "revision": "516f9a07a4ce67e0694361a531b50a600324f25b",
       "path": ".github/assets/logo/logo-light.png",
       "file": "sources/cli/.github/assets/logo/logo-light.png",
       "sha256": "b412e0ea3ce90b8742bed9aec2885f5ff48c39ffd08f01ee24f954daaafbf395"
     },
     {
       "repository": "skill-cli/cli",
-      "revision": "d84d5fbb6f3aa08cb38475c1439a5b8d58e370aa",
+      "revision": "516f9a07a4ce67e0694361a531b50a600324f25b",
       "path": ".github/assets/logo/logo-dark.png",
       "file": "sources/cli/.github/assets/logo/logo-dark.png",
       "sha256": "ca2bdc90da14e546cbdf760d05c34ba3ab310f6911039fbcbd7ac02b0e694d24"
     },
     {
       "repository": "skill-cli/cli",
-      "revision": "d84d5fbb6f3aa08cb38475c1439a5b8d58e370aa",
+      "revision": "516f9a07a4ce67e0694361a531b50a600324f25b",
       "path": ".github/assets/social-preview/social-preview.png",
       "file": "sources/cli/.github/assets/social-preview/social-preview.png",
       "sha256": "5313e9978efc2e84fd5a31ea6928d57e424f1e27fb61df69bb1bbf3315c466cf"
     },
     {
       "repository": "skill-cli/cli",
-      "revision": "d84d5fbb6f3aa08cb38475c1439a5b8d58e370aa",
+      "revision": "516f9a07a4ce67e0694361a531b50a600324f25b",
       "path": "LICENSE",
       "file": "sources/cli/LICENSE",
       "sha256": "9ae2a33a73825aa7432d20210f675857c47987e6af792f9fc628797b8401f737"
